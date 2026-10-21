@@ -19,5 +19,5 @@ Just a group of friends building Minecraft plugins, tools, and fun experiments f
 
 ---
 <div align="center">
-  <sub>Built for fun by friends.</sub>
+  <sub>Built by Croxln.</sub>
 </div>
