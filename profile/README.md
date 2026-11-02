@@ -1,6 +1,6 @@
 <div align="center">
 
-# Athena Projects
+# S&E Studios
 
 Minecraft server plugins, tools, and performance experiments for PaperMC & Folia (1.21+).
 
